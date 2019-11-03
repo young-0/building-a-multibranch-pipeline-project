@@ -7,4 +7,4 @@ import groovy.json.JsonSlurper
         def p1 = new xsydemo()
         //清理空间
         p1.clearworkspace()
- ｝
+ }
